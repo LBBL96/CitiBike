@@ -26,7 +26,7 @@ I created an interactive series of maps and other visualizations highlighting tr
 ## Peak Ride Times by Day
 ![Peak Ridership](images/CitiPeak.png)
 
-## Sample Day and Time with Most Popular Stations
+## Sample Day and Time (October 19th at noon) with Most Popular Stations
 ![October 19 Rides](images/Oct19_noon.png)
 
 ## Ride Length by Generation
