@@ -29,8 +29,8 @@ I created an interactive series of maps and other visualizations highlighting tr
 ## Sample Day and Time (October 19th at noon) with Most Popular Stations
 ![October 19 Rides](images/Oct19_noon.png)
 
-## Ride Length by Generation
+## Ridership by Generation 
 ![Rides by Customer Type](images/Cust_type.png)
 
-## Ridership by Generation
+## Ride Length by Generation
 ![Rides by Generation](images/Avg_trip.png)
