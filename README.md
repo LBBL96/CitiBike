@@ -13,25 +13,26 @@ Using the Pandas library in Python, I cleaned the data. Among other things, I dr
 I created an interactive series of maps and other visualizations highlighting traffic patterns by date and time, as well as by user type and generation. To interact with the maps and read my analysis, please visit my Tableau site at [Tableau Public](https://public.tableau.com/profile/lynn.leifker#!/vizhome/Citibike2_15771456575810/CitiBike).
 
 ## A Few Sample Visualizations
-### Bike Rides by Day in October
+
+## Bike Rides by Day in October
 ![October Rides](images/Oct_type.png)
 
-### Distribution for One-Time Riders on October 1st
+## Distribution for One-Time Riders on October 1st
 ![One-time Riders](images/One_time.png)
 
-### Distribution for Subscribers on October 1st
+## Distribution for Subscribers on October 1st
 ![Subscribers](images/Subscribers.png)
 
-### Peak Ride Times by Day
+## Peak Ride Times by Day
 ![Peak Ridership](images/CitiPeak.png)
 
-### Ridership by Generation
-![Rides by Generation](images/Avg_trip.png)
-
-### Ride Length by Generation
-![Rides by Customer Type](images/Cust_type.png)
-
-### Sample Day and Time with Most Popular Stations
+## Sample Day and Time with Most Popular Stations
 ![October 19 Rides](images/Oct19_noon.png)
 
-![Subscribers](images/Subscribers.png)
+## Ridership by Generation
+![Rides by Generation](images/Avg_trip.png)
+
+## Ride Length by Generation
+![Rides by Customer Type](images/Cust_type.png)
+
+
