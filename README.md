@@ -23,7 +23,7 @@ I created an interactive series of maps and other visualizations highlighting tr
 ## Distribution for Subscribers on October 1st
 ![Subscribers](images/Subscribers.png)
 
-## Peak Ride Times by Day
+## Peak Ride Times by Day and Subscriber Type
 ![Peak Ridership](images/CitiPeak.png)
 
 ## Sample Day and Time (October 19th at noon) with Most Popular Stations
